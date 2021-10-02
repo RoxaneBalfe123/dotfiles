@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = roxannebalfe1@gmail.com
+	name = Roxanne Balfe
